@@ -1,3 +1,0 @@
-D:\Github-Rep\cpp-Calculator\cpp-Calculator\Debug\cpp-Calculator.vcxprojAssemblyReference.cache
-D:\Github-Rep\cpp-Calculator\cpp-Calculator\Debug\cppCalculator.CalculatorForm.resources
-D:\Github-Rep\cpp-Calculator\cpp-Calculator\Debug\cpp-Calculator.vcxproj.GenerateResource.cache
