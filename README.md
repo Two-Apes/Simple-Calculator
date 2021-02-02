@@ -4,15 +4,15 @@ A simple cpp calculator with GUI.
 
 Main Menu -
 1. Backspace -> delete the last input
-2. C && CE -> clear the screen
-3. ± -> change the sign (ex: 70 -> -70 || -70 -> 70)
-4. + -> addition
-5. - -> subtraction
-6. * -> multiplication
-7. / -> division
-8. . -> decimal point / decimal separator
-9. = -> equals sign
-10. 0 - 9 -> keys
+2. "C" && "CE"> clear the screen
+3. "±" -> change the sign (ex: 70 -> -70 || -70 -> 70)
+4. "+" -> addition
+5. "-" -> subtraction
+6. "*" -> multiplication
+7. "/" -> division
+8. "." -> decimal point / decimal separator
+9. "=" -> equals sign
+10. "0 - 9" -> keys
 
 Image:
 
